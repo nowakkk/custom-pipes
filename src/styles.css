@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+#bar {
+    display: flex;
+    border: 1px solid grey;
+    justify-content: space-between;
+    padding: 2vh 2vh 2vh 2vh;
+    font-size: 3vh;
+}
